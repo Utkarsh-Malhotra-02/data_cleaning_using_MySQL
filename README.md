@@ -1,1 +1,1 @@
-# data_cleaning_using_MySQL
+# data_cleaning_and_exploratory_data_analysis_using_MySQL
